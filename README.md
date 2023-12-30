@@ -1,5 +1,6 @@
-- Hi, I’m @OddPrograms
-- I’m interested in Data Science, Modding games, Server hosting.
-- I’m currently learning JS & Python.
+- Hi, I’m @OddPrograms, I'm currently a student at LCC nearing completion of an AAS in Software Development.
+- I’m interested in Programming, Data Science, Modding games, & FOSS.
+- I’m currently learning JS, Python, C# (.NET), and Rust.
 - I’m looking to collaborate on simple full stack programs.
-- How to reach me, OddPrograms@gmail.com.
+- You can reach me at OddPrograms@gmail.com.
+- I'm looking for work!
