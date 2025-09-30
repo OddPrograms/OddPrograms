@@ -1,6 +1,5 @@
-- Hi, I’m @OddPrograms, I'm currently a student at LCC nearing completion of an AAS in Software Development.
-- I’m interested in Programming, Data Science, Modding games, & FOSS.
-- I’m currently learning JS, Python, C# (.NET).
-- I’m looking to collaborate on simple full stack programs.
+- Hi, I’m @OddPrograms a Programmer Analyst/DevOps Specialist with an AAS in Software Development.
+- I’m interested in Programming, Data Science, Automation, and Learning Languages.
+- Knowledgeable in JS, Python, C# (.NET), Java, SQL, Docker/Compose/Podman, & Relational Databases.
 - You can reach me at OddPrograms@gmail.com.
 - I'm looking for work!
